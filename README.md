@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Mira-kh
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning electrical engineering
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Mira Khalil
+- 👀 I’m interested in AI (machine learning, deep learning, PINN, etc.)
+- 🌱 I’m an electrical and electronics engineer and a PhD student working on lithium-ion batteries
 - 📫 How to reach me mirakhalil99@hotmail.com
 
 <!---
